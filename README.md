@@ -10,6 +10,17 @@
 |   WebNews.json            demo data(from:https://data.gov.tw/dataset/25891) 
 ````
 
+## requirment
+Python
+```
+Python 3.10.8
+```
+
+pip
+```
+dill                         0.3.6
+```
+
 ## usage
 creat a N_Gram object
 ```
